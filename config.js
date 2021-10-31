@@ -1,1 +1,1 @@
-const CONFIG_BACKEND_URL = 'https://osrs-gimp.herokuapp.com:17929/'
+const CONFIG_BACKEND_URL = 'https://osrs-gimp.herokuapp.com/'
